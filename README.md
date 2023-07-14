@@ -38,3 +38,6 @@ import '@ionic/react/css/text-transformation.css';
 import '@ionic/react/css/flex-utils.css';
 import '@ionic/react/css/display.css';
 ```
+## IOS example
+
+![IOS example](./ios-example.png)
