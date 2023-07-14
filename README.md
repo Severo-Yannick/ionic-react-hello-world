@@ -14,6 +14,8 @@ This example shows how to add Ionic to a regular React project generated with [C
  * [Color Generator](https://ionicframework.com/docs/theming/color-generator)
  * [CSS Variables](https://ionicframework.com/docs/theming/css-variables)
  * [CSS Utilities](https://ionicframework.com/docs/layout/css-utilities)
+ * [Apple - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+ * [Material Design - Human Interface Guidelines](https://m3.material.io/)
 
 ## Ionic CSS Imports
 
