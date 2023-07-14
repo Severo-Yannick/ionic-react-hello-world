@@ -1,5 +1,6 @@
 import { setupIonicReact, IonButton, useIonToast } from "@ionic/react";
 import "@ionic/react/css/core.css";
+import "./theme/colors.css";
 
 setupIonicReact();
 
@@ -19,7 +20,9 @@ function App() {
         <h1>My App</h1>
       </header>
       <main>
-        <IonButton onClick={handleClick}>Click me !</IonButton>
+        <IonButton color="primary" onClick={handleClick}>
+          Click me !
+        </IonButton>
       </main>
     </div>
   );
