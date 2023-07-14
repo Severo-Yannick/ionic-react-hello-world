@@ -40,4 +40,8 @@ import '@ionic/react/css/display.css';
 ```
 ## IOS example
 
-![IOS example](./ios-example.png)
+![IOS example](./screen/ios-example.png)
+
+## Android example
+
+![Android example](./screen/android-example.png)
