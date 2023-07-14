@@ -1,4 +1,5 @@
-import { setupIonicReact, IonButton, useIonToast } from "@ionic/react";
+import { setupIonicReact, IonButton, useIonToast, IonIcon } from "@ionic/react";
+import { play } from "ionicons/icons";
 import "@ionic/react/css/core.css";
 import "./theme/colors.css";
 
@@ -21,6 +22,7 @@ function App() {
       </header>
       <main>
         <IonButton color="primary" onClick={handleClick}>
+          <IonIcon icon={play} slot="start" />
           Click me !
         </IonButton>
       </main>
