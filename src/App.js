@@ -1,3 +1,8 @@
+import { setupIonicReact, IonButton } from "@ionic/react";
+import "@ionic/react/css/core.css";
+
+setupIonicReact();
+
 function App() {
   return (
     <div>
@@ -5,7 +10,7 @@ function App() {
         <h1>My App</h1>
       </header>
       <main>
-        <p>Add some content here…</p>
+        <IonButton>Click me !</IonButton>
       </main>
     </div>
   );
